@@ -10,7 +10,7 @@ I'm a designer and engineer focusing on human–computer interaction, augmented 
 
 #### [UE Customized Shaders](https://github.com/ariaxxxi/UE-Shader-HLSL)
 
-#### [AI VR Chatbot]
+#### [AI VR Chatbot](https://github.com/ariaxxxi/ChatBot-VR/tree/main)
 
 #### [AR Weather Forcast]
 
