@@ -10,7 +10,11 @@ I'm a designer and engineer focusing on human–computer interaction, augmented 
 
 #### [UE Customized Shaders](https://github.com/ariaxxxi/UE-Shader-HLSL)
 
-#### AR Projects: Check out the [work page](https://www.xiyingbao.org/design)
+#### [AR Weather Forcast]
+
+#### [AR Drawing++] 
+
+#### Fore more my AR Projects, check out the [work page](https://www.xiyingbao.org/design)
 
 
 ---------------
