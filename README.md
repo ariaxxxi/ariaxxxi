@@ -8,13 +8,15 @@ I'm a designer and engineer focusing on human–computer interaction, augmented 
 
 ### AR/VR: Unity / Unreal Engine
 
-#### [UE Customized Shaders](https://github.com/ariaxxxi/UE-Shader-HLSL)
+#### 🎵 [BlockBeats_VR Game](https://github.com/ariaxxxi/BlockBeats_VRGame/tree/main)
 
-#### [AI VR Chatbot](https://github.com/ariaxxxi/ChatBot-VR/tree/main)
+#### ⚽️ [UE Customized Shaders](https://github.com/ariaxxxi/UE-Shader-HLSL)
 
-#### [AR Weather Forcast](https://github.com/ariaxxxi/Weather-AR)
+#### 🤖️ [AI VR Chatbot](https://github.com/ariaxxxi/ChatBot-VR/tree/main)
 
-#### [AR Drawing++](https://github.com/ariaxxxi/AR-3D-Drawing/tree/main) 
+#### ☀️ [AR Weather Forcast](https://github.com/ariaxxxi/Weather-AR)
+
+#### 🖌️ [AR Drawing++](https://github.com/ariaxxxi/AR-3D-Drawing/tree/main) 
 
 #### Fore more my AR Projects, check out the [work page](https://www.xiyingbao.org/design)
 
@@ -39,7 +41,6 @@ I'm a designer and engineer focusing on human–computer interaction, augmented 
 
 #### [Emotion-Interactive Landscape](https://github.com/ariaxxxi/Emotion-interactive-Landscape)
 
-#### [Sound Visualization]
 
 ---------------
 
