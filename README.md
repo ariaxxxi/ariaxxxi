@@ -4,6 +4,22 @@ I'm a designer and engineer focusing on human–computer interaction, augmented 
 
 ✨ Work Examples: https://www.xiyingbao.org/
 
+
+---------------
+
+### Web-based Interaction
+
+#### ⚡ [D3-Covid Data Dashboard](https://github.com/ariaxxxi/d3-Covid-Data-Viz)
+
+#### 👯 [1D Collab Game](https://github.com/ariaxxxi/Doublox-1DWebGame)
+
+#### 💬 [Web 3D: Geometry Jungle](https://github.com/ariaxxxi/GeometryJungle)
+
+#### 🌱 [React-Narratron: AI Storytelling](https://github.com/ariaxxxi/Narratron_Backend)
+
+####  [ReactNative-Todo List App](https://github.com/ariaxxxi/ReactNative-Todo-List)
+
+
 ---------------
 
 ### AR/VR: Unity / Unreal Engine
@@ -20,20 +36,6 @@ I'm a designer and engineer focusing on human–computer interaction, augmented 
 
 #### Fore more my AR Projects, check out the [work page](https://www.xiyingbao.org/design)
 
-
----------------
-
-### Web-based Interaction
-
-#### ⚡ [D3-Covid Data Dashboard](https://github.com/ariaxxxi/d3-Covid-Data-Viz)
-
-#### 👯 [1D Collab Game](https://github.com/ariaxxxi/Doublox-1DWebGame)
-
-#### 💬 [Web 3D: Geometry Jungle](https://github.com/ariaxxxi/GeometryJungle)
-
-#### 🌱 [React-Narratron: AI Storytelling](https://github.com/ariaxxxi/Narratron_Backend)
-
-####  [ReactNative-Todo List App](https://github.com/ariaxxxi/ReactNative-Todo-List)
 
 ---------------
 
